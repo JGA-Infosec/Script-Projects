@@ -4,7 +4,7 @@ These are my collection of the scripts I made
 A collection of custom automation scripts written in Bash and Python for rapid perimeter enumeration and vulnerability research.
 
 ## 📑 Table of Contents
-* [Reconnaissance Chain Script](#reconnaissance-chain)
+* [Reconnaissance Chain Script](#-reconnaisance-chain-script-)
 
 ---
 
