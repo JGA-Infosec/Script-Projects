@@ -15,7 +15,7 @@ A collection of custom automation scripts written in Bash and Python for rapid p
 **File:** `recon_chain.sh` | **Language:** Bash
 **Core Utilities:** `ping`, `rustscan`, `udpx`, `nmap`, `subfinder`
  
-*Note: This is the very first interactive workflow script I ever wrote. It serves as the baseline for my development journey, demonstrating my initial approach to chaining discovery tools before transitioning to fully headless automation.*
+*Note: This is the very first script I ever wrote. It serves as the baseline for my development journey, demonstrating my initial approach to chaining discovery tools before transitioning to fully headless automation.*
 
 #### Objective
 To streamline the repetitive initial stages of a host assessment by chaining basic ICMP discovery, lightning-fast TCP port scanning (Rustscan), UDP probing, and targeted Nmap execution into a single interactive terminal workflow.
