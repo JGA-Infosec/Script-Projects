@@ -1,18 +1,13 @@
 # Script-Projects
-
-These are my collection of the scripts I made
 A collection of custom automation scripts written in Bash and Python for rapid perimeter enumeration and vulnerability research.
 
 ## 📑 Table of Contents
-* [Reconnaissance Chain Script](#-reconnaisance-chain-script-)
+* [Reconnaissance Chain Script](#-reconnaissance-chain-script-)
 
 ---
 
-
-
- 
-## █▓▒░ Reconnaisance Chain Script ░▒▓█
-**File:** `recon_chain.sh` | **Language:** Bash
+## █▓▒░ Reconnaissance Chain Script ░▒▓█
+**File:** [recon_chain.sh](recon_chain.sh) | **Language:** Bash  
 **Core Utilities:** `ping`, `rustscan`, `udpx`, `nmap`, `subfinder`
  
 *Note: This is the very first script I ever wrote. It serves as the baseline for my development journey, demonstrating my initial approach to chaining discovery tools before transitioning to fully headless automation.*
