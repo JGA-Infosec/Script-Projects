@@ -11,7 +11,7 @@ A collection of custom automation scripts written in Bash and Python for rapid p
 
 
  
-### █▓▒░ RECONNAISSANCE CHAIN SCRIPT░▒▓█
+### █▓▒░ Reconnaisance Chain Script ░▒▓█
 **File:** `recon_chain.sh` | **Language:** Bash
 **Core Utilities:** `ping`, `rustscan`, `udpx`, `nmap`, `subfinder`
  
